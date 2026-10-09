@@ -53,6 +53,4 @@ npm start
   <img src="./assets/screenshots/1761050928471.jpeg" width="900">
 </p>
 
-## Lisans
 
-Bu proje [LICENCE](./LICENCE) dosyasındaki lisans ile dağıtılmaktadır.
